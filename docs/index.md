@@ -44,6 +44,14 @@ For data in V1 of OPAL, input data files and post-processed data files are as fo
 ## Data Ingest File Templates
 The processed files for Data Landing stage can be used as templates for future data assimilation. Use the file that most closely aligns with your data. Example template files will be available via this repository shortly.
 
+|  Template File for Data Landing (Initial Ingest)  |
+| ------------------------------------------------- |
+| [Template_AHHS_Dust_DataCleaned_Column.xlsx](templates/Template_AHHS_Dust_DataCleaned_Column.xlsx)        |
+| [Template_AHHS_Water_DataCleaned_Column.xlsx](templates/Template_AHHS_Water_DataCleaned_Column.xlsx)       |
+| AHHSNontargetedDatasetWater_Column.csv                |
+| NCSDust_output_Column.csv                                           |
+| 	NCSSerum_output_Column_Corrected_SampleID.csv |
+
 ## Data Dictionary
 A data dictionary describing the relevant attributes of OPAL V1 will be available shortly.
 
