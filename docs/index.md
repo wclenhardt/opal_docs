@@ -10,12 +10,14 @@ The PFAS Observations Data Model is based on the Observational Data Model 2 (ODM
 [![PFAS Observations Data Model](images/pfasobsdatamodelv4.jpg)](miscfiles/PfasObservationDataModelV4.pdf)
 
 ## Data Processing Flow
-The basic data processing flow is diagrammed in Figure 2 and consists of the following steps:
+The basic data processing flow is diagrammed below and consists of the following steps:
 1.	Raw data are received and working copies made of the files.
 2.	Initial processing, aka Data Munging, is conducted using the working copies. (See Initial Data File Processing, aka Data Munging section below for more information)
 3.	After initial processing, the data files are staged for the Data Landing.
 4.	After staging, scripts are used to load the data into the PFAS Observations.
 5.	Queries and data views are developed to support front-end client calls.
+
+![Data Processing Work Flow](images/dataprocessingworkflow.jpg)
 
 ## Initial Data File Processing, aka Data Munging
 To view a detailed description of the steps taken as part of intiail data processing, please consult the following file: [Data_Processing_Steps_Bin.pdf](docs/miscfiles/Data_processing_Steps_Bin.pdf).
