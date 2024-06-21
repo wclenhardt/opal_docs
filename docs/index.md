@@ -26,7 +26,7 @@ The basic data processing flow is diagrammed below and consists of the following
 ![Data Processing Work Flow](images/dataprocessingworkflow.jpg)
 
 ## Initial Data File Processing, aka Data Munging
-To view a detailed description of the steps taken as part of intiail data processing, please consult the following file: [Data_Processing_Steps_Bin.pdf](docs/miscfiles/Data_processing_Steps_Bin.pdf).
+To view a detailed description of the steps taken as part of initial data processing, please consult the following file: [Data_Processing_Steps_Bin.pdf](miscfiles/Data_processing_Steps_Bin.pdf).
 
 Stand-alone R code is accessible in [PFAS_Data_Processing.R](scriptfiles/PFAS_Data_Processing.R)
 
@@ -42,7 +42,7 @@ For data in V1 of OPAL, input data files and post-processed data files are as fo
 
 
 ## Data Ingest File Templates
-The processed files for Data Landing stage can be used as templates for future data assimilation. Use the file that most closely aligns with your data. 
+The processed files for Data Landing stage can be used as templates for future data assimilation. Use the file that most closely aligns with your data. See table below.
 
 |  Template File for Data Landing (Initial Ingest)  |
 | ------------------------------------------------- |
@@ -56,7 +56,7 @@ The processed files for Data Landing stage can be used as templates for future d
 A data dictionary describing the relevant attributes of OPAL V1 will be available shortly.
 
 ## Standing Up OPAL v1
-Documentation for database ingest and processing, as well as standing up OPAL va, can be found in the following Github repository. 
+Documentation for database ingest and processing, as well as standing up OPAL va, can be found in the following Github repository (https://github.com/RENCI/pfasdata-backend). 
 [![OPAL Backend Repo](images/opalbackendrepo.jpg)](https://github.com/RENCI/pfasdata-backend)
 
 ## Database Backups and Data Integrity
