@@ -7,7 +7,7 @@ Purpose of this document is to provide an overview of documentation for OPAL (Ob
 ## PFAS Observations Data Model
 The PFAS Observations Data Model is based on the Observational Data Model 2 (ODM2) and consists of two elements.  The first element is the landing data model.  This might be termed the pre-database ingest stage of data ingest.  Pre-processed files are provided for the Data Landing stage. More information on workflow can be found in the Data Processing Flow section below. The second element is the more detailed data model for the relational database that provides data to the front-end client.
 
-[![PFAS Observations Data Model](images/pfasobsdatamodelv4.jpg)](docs/miscfiles/PfasObservationDataModelV4.pdf)
+[![PFAS Observations Data Model](images/pfasobsdatamodelv4.jpg)](miscfiles/PfasObservationDataModelV4.pdf)
 
 ## Data Processing Flow
 The basic data processing flow is diagrammed in Figure 2 and consists of the following steps:
@@ -20,7 +20,7 @@ The basic data processing flow is diagrammed in Figure 2 and consists of the fol
 ## Initial Data File Processing, aka Data Munging
 To view a detailed description of the steps taken as part of intiail data processing, please consult the following file: [Data_Processing_Steps_Bin.pdf](docs/miscfiles/Data_processing_Steps_Bin.pdf).
 
-Stand-alone R code are accessible in [PFAS_Data_Processing.R](docs/scriptfiles/PFAS_Data_Processing.R)
+Stand-alone R code are accessible in [PFAS_Data_Processing.R](scriptfiles/PFAS_Data_Processing.R)
 
 ## Data Ingest File Templates
 The processed files for Data Landing stage can be used as templates for future data assimilation. Use the file that most closely aligns with your data. 
