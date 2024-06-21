@@ -28,7 +28,7 @@ The basic data processing flow is diagrammed below and consists of the following
 ## Initial Data File Processing, aka Data Munging
 To view a detailed description of the steps taken as part of intiail data processing, please consult the following file: [Data_Processing_Steps_Bin.pdf](docs/miscfiles/Data_processing_Steps_Bin.pdf).
 
-Stand-alone R code are accessible in [PFAS_Data_Processing.R](scriptfiles/PFAS_Data_Processing.R)
+Stand-alone R code is accessible in [PFAS_Data_Processing.R](scriptfiles/PFAS_Data_Processing.R)
 
 For data in V1 of OPAL, input data files and post-processed data files are as follows:
 
