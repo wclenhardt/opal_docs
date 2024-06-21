@@ -3,7 +3,7 @@
 # Documentation Overview 
 
 ## Introduction
-Purpose of this document is to provide an overview of documentation for OPAL (Observational PFAS Access Portal). This includes the data model, the steps taken to ingest and make data available in the PFAS Observational Data Access Tool, information about standing up the tool, as well as pointers to scripts and code related to paper analyses.
+Purpose of this document is to provide an overview of documentation for OPAL (Observational PFAS Access Portal). This includes the data model, the steps taken to ingest and make data available in the PFAS Observational Data Access Tool, information about standing up the tool, as well as eventual pointers to scripts and code related to paper analyses.
 
 ## PFAS Observations Data Model
 The PFAS Observations Data Model is based on the Observational Data Model 2 (ODM2) and consists of two elements.  The first element is the landing data model.  This might be termed the pre-database ingest stage of data ingest.  Pre-processed files are provided for the Data Landing stage. More information on workflow can be found in the Data Processing Flow section below. The second element is the more detailed data model for the relational database that provides data to the front-end client.
