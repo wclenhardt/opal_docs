@@ -1,5 +1,6 @@
 # OPAL (Observational PFAS Access Portal)
-# Documentation Overview
+# (release v1.0)
+# Documentation Overview 
 
 ## Introduction
 Purpose of this document is to provide an overview of documentation for OPAL (Observational PFAS Access Portal). This includes the data model, the steps taken to ingest and make data available in the PFAS Observational Data Access Tool, information about standing up the tool, as well as pointers to scripts and code related to paper analyses.
@@ -38,7 +39,7 @@ For data in V1 of OPAL, input data files and post-processed data files are as fo
 ## Data Ingest File Templates
 The processed files for Data Landing stage can be used as templates for future data assimilation. Use the file that most closely aligns with your data. 
 ## Data Dictionary
-A data dictionary describing the relevant attributes is available.
+A data dictionary describing the relevant attributes of OPAL V1 will be available shortly.
 
 ## Database Ingest Processing
 Documentation for database ingest and processing can be found in the following Github repository. 
