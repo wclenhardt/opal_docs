@@ -26,8 +26,6 @@ Stand-alone R code are accessible in [PFAS_Data_Processing.R](scriptfiles/PFAS_D
 
 For data in V1 of OPAL, input data files and post-processed data files are as follows:
 
-File From EPA	Processed File for Data Landing (Initial Ingest)
-
 | File From EPA                        |  Processed File for Data Landing (Initial Ingest) |
 | ------------------------------------ | ------------------------------------------------- |
 | AHHS_Dust_DataCleaned_231020.nmd.csv | AHHS_Dust_DataCleaned_231020_nmd_Column.csv       |
@@ -54,4 +52,7 @@ To maintain data integrity and security, regular backups are made of the databas
 As additional processing, analytical, or other relevant scripts and programs are developed (e.g. for papers in development) they will be made available as appropriate.
 
 Scripts for exploratory analysis, such as R code, are available on request and are being stored in the project MS Teams space.
+
+### Acknowledgements
+This was developed under funding from the U.S. EPA under Contract 68HERD21A0002 Task Order 68HERH23F0157 to the University of North Carolina at Chapel Hill by the UNC Institute for the Environment (UNC-IE), Renaissance Computing Institute (RENCI) and the School of Information and Library Science (SILS).
 
