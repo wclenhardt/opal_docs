@@ -24,6 +24,19 @@ To view a detailed description of the steps taken as part of intiail data proces
 
 Stand-alone R code are accessible in [PFAS_Data_Processing.R](scriptfiles/PFAS_Data_Processing.R)
 
+For data in V1 of OPAL, input data files and post-processed data files are as follows:
+
+File From EPA	Processed File for Data Landing (Initial Ingest)
+
+| File From EPA                        |  Processed File for Data Landing (Initial Ingest) |
+| ------------------------------------ | ------------------------------------------------- |
+| AHHS_Dust_DataCleaned_231020.nmd.csv | AHHS_Dust_DataCleaned_231020_nmd_Column.csv       |
+| AHHS_Water_DataCleaned_231020_nmd.csv | AHHS_Water_DataCleaned_231020_nmd_Column.csv     |
+| AHHSNontargetedDatasetWater.xlsx | AHHSNontargetedDatasetWater_Column.csv                |
+| NCSDust_output.csv | NCSDust_output_Column.csv                                           |
+| NCSSerum_output.csv + NCS_Serum_Dust_crosswalk_share.csv | 	NCSSerum_output_Column_Corrected_SampleID.csv |
+
+
 ## Data Ingest File Templates
 The processed files for Data Landing stage can be used as templates for future data assimilation. Use the file that most closely aligns with your data. 
 ## Data Dictionary
