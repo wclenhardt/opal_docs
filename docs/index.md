@@ -26,7 +26,8 @@ The processed files for Data Landing stage can be used as templates for future d
 A data dictionary describing the relevant attributes is available.
 
 ## Database Ingest Processing
-Documentation for database ingest and processing can be found in the following Github repository. https://github.com/RENCI/pfasdata-backend  
+Documentation for database ingest and processing can be found in the following Github repository. https://github.com/RENCI/pfasdata-backend 
+![OPAL Backend Repo](images/opalbackendrepo.png)
 
 ## Database Backups and Data Integrity
 To maintain data integrity and security, regular backups are made of the database. For more information see details in Github repository reference in previous section.
