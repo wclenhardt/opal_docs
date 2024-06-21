@@ -10,7 +10,7 @@ The PFAS Observations Data Model is based on the Observational Data Model 2 (ODM
 
 [![PFAS Observations Data Model](images/pfasobsdatamodelv4.jpg)](miscfiles/PfasObservationDataModelV4.pdf)
 
-For more informatino on ODM2 please consult (https://www.odm2.org/).
+For more information on ODM2 please consult https://www.odm2.org/.
 
 Or access the following publication.
 [Horsburgh, J. S., Aufdenkampe, A. K., Mayorga, E., Lehnert, K. A., Hsu, L., Song, L., Spackman Jones, A., Damiano, S. G., Tarboton, D. G., Valentine, D., Zaslavsky, I., Whitenack, T. (2016). Observations Data Model 2: A community information model for spatially discrete Earth observations, Environmental Modelling & Software, 79, 55-74, http://dx.doi.org/10.1016/j.envsoft.2016.01.010](http://dx.doi.org/10.1016/j.envsoft.2016.01.010)
