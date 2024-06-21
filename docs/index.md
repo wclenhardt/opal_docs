@@ -61,5 +61,5 @@ As additional processing, analytical, or other relevant scripts and programs are
 Scripts for exploratory analysis, such as R code, are available on request and are being stored in the project MS Teams space.
 
 ### Acknowledgements
-This was developed under funding from the U.S. EPA under Contract 68HERD21A0002 Task Order 68HERH23F0157 to the University of North Carolina at Chapel Hill by the UNC Institute for the Environment (UNC-IE), Renaissance Computing Institute (RENCI) and the School of Information and Library Science (SILS).
+This was developed under funding from the U.S. EPA under Contract 68HERD21A0002 Task Order 68HERH23F0157 to the University of North Carolina at Chapel Hill by the [UNC Institute for the Environment (UNC-IE)](https://ie.unc.edu/), [Renaissance Computing Institute (RENCI)](https://renci.org/) and the [School of Information and Library Science (SILS)](https://sils.unc.edu/).
 
