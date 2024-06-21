@@ -7,7 +7,7 @@ Purpose of this document is to provide an overview of documentation for OPAL (Ob
 ## PFAS Observations Data Model
 The PFAS Observations Data Model is based on the Observational Data Model 2 (ODM2) and consists of two elements.  The first element is the landing data model.  This might be termed the pre-database ingest stage of data ingest.  Pre-processed files are provided for the Data Landing stage. More information on workflow can be found in the Data Processing Flow section below. The second element is the more detailed data model for the relational database that provides data to the front-end client.
 
-![PFAS Observations Data Model](/images/pfasobsdatamodelv4.jpg)
+![PFAS Observations Data Model](images/pfasobsdatamodelv4.jpg)
 
 ## Data Processing Flow
 The basic data processing flow is diagrammed in Figure 2 and consists of the following steps:
