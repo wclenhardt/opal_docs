@@ -7,6 +7,8 @@ Purpose of this document is to provide an overview of documentation for OPAL (Ob
 
 Use [https://pfas-app-prod.renci.unc.edu/](https://pfas-app-prod.renci.unc.edu/) to access the data portal directly.
 
+[comment]: May need to add info about the portal being restricted and how to request access.
+
 ## PFAS Observations Data Model
 The PFAS Observations Data Model is based on the Observational Data Model 2 (ODM2) and consists of two elements.  The first element is the landing data model.  This might be termed the pre-database ingest stage of data ingest.  Pre-processed files are provided for the Data Landing stage. More information on workflow can be found in the Data Processing Flow section below. The second element is the more detailed data model for the relational database that provides data to the front-end client.
 
@@ -14,7 +16,7 @@ The PFAS Observations Data Model is based on the Observational Data Model 2 (ODM
 
 For more information on ODM2 please consult [https://www.odm2.org](https://www.odm2.org/).
 
-Or access the following publication.
+Or refer to the following publication.
 [Horsburgh, J. S., Aufdenkampe, A. K., Mayorga, E., Lehnert, K. A., Hsu, L., Song, L., Spackman Jones, A., Damiano, S. G., Tarboton, D. G., Valentine, D., Zaslavsky, I., Whitenack, T. (2016). Observations Data Model 2: A community information model for spatially discrete Earth observations, Environmental Modelling & Software, 79, 55-74, http://dx.doi.org/10.1016/j.envsoft.2016.01.010](http://dx.doi.org/10.1016/j.envsoft.2016.01.010)
 
 ## Data Processing Flow
