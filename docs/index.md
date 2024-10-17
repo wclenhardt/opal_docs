@@ -45,10 +45,27 @@ For data in V1 of OPAL, input data files and post-processed data files are as fo
 | NCSSerum_output.csv + NCS_Serum_Dust_crosswalk_share.csv | 	NCSSerum_output_Column_Corrected_SampleID.csv |
 
 
-## Data Ingest File Templates
+## Submitting Data for OPAL Ingest
+To facilitate data ingest of new data into OPAL please consult the following information and recommendations.
+
+### OPAL Data Ingest Submission Checklist
+1. Choose one of the template files that mostly closely matches your type of data.
+2. Convert your data to match as closely as possible the format suggested by the template.
+3. Send original file and the ingest formatted file to the relevant EPA program manager.
+
+### Basic File Format Schematic
+A row represents an analyzed sample. Columns represent the analyte measurement, followed by MRL and DL information, followed by a column which contains any relevant flags for that particular measurement.
+
+| SampleID | Analyte#1 Concentration | Analyte#1 MRL | Analyte#1 DL | Analyte#1 Flags | … repeat for each analyte |
+| -------- | ----------------------- | ------------- | ------------ | --------------- | ------------------------- |
+| <string> | <numeric> | <numeric> | <numeric> | <string> | … repeat concentration/MRL/DLF/Flags for each analyte |
+
+### Data Ingest File Templates
 The processed files for Data Landing stage can be used as templates for future data assimilation. Use the file that most closely aligns with your data. See table below.
 
-|  Template File for Data Landing (Initial Ingest)  |
+Also, for your reference and potential re-use, the R scripts that were created and used for data pre-processing are available. 
+
+|  Template Files for Data Landing (Initial Ingest)  |
 | ------------------------------------------------- |
 | [Template_AHHS_Dust_DataCleaned_Column.xlsx](templates/Template_AHHS_Dust_DataCleaned_Column.xlsx)        |
 | [Template_AHHS_Water_DataCleaned_Column.xlsx](templates/Template_AHHS_Water_DataCleaned_Column.xlsx)       |
