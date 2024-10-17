@@ -58,7 +58,7 @@ A row represents an analyzed sample. Columns represent the analyte measurement, 
 
 | SampleID | Analyte#1 Concentration | Analyte#1 MRL | Analyte#1 DL | Analyte#1 Flags | … repeat for each analyte |
 | -------- | ----------------------- | ------------- | ------------ | --------------- | ------------------------- |
-| <string> | <numeric> | <numeric> | <numeric> | <string> | … repeat concentration/MRL/DLF/Flags for each analyte |
+| \<string\> | \<numeric\> | \<numeric\> | \<numeric\> | \<string\> | … repeat concentration/MRL/DLF/Flags for each analyte |
 
 ### Data Ingest File Templates
 The processed files for Data Landing stage can be used as templates for future data assimilation. Use the file that most closely aligns with your data. See table below.
