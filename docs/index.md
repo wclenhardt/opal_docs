@@ -53,8 +53,8 @@ The processed files for Data Landing stage can be used as templates for future d
 | [Template_AHHS_Dust_DataCleaned_Column.xlsx](templates/Template_AHHS_Dust_DataCleaned_Column.xlsx)        |
 | [Template_AHHS_Water_DataCleaned_Column.xlsx](templates/Template_AHHS_Water_DataCleaned_Column.xlsx)       |
 |[Template_AHHSNontargetedDatasetWater_Column.xlsx](templates/Template_AHHSNontargetedDatasetWater_Column.xlsx)               |
-| [NCSDust_output_Column.xlsx](templates/NCSDust_output_Column.xlsx)                                           |
-| [NCSSerum_output_Column_Corrected_SampleID.xlsx](templates/NCSSerum_output_Column_Corrected_SampleID.xlsx) |
+| [Template_NCSDust_output_Column.xlsx](templates/Template_NCSDust_output_Column.xlsx)                                           |
+| [Template_NCSSerum_output_Column_Corrected_SampleID.xlsx](templates/Template_NCSSerum_output_Column_Corrected_SampleID.xlsx) |
 
 ## Data Dictionary
 A data dictionary describing the relevant attributes of OPAL V1 will be available shortly.
