@@ -30,7 +30,7 @@ The basic data processing flow is diagrammed below and consists of the following
 ![Data Processing Work Flow](images/dataprocessingworkflow.jpg)
 
 ## Initial Data File Processing, aka Data Munging
-To view a detailed description of the steps taken as part of initial data processing, please consult the following file: [Data_Processing_Steps_Bin.pdf](miscfiles/Data_processing_Steps_Bin.pdf).
+To view a detailed description of the steps taken as part of initial data processing, please consult the following file: [Data_Processing_Steps_Bin.pdf](miscfiles/Data_Processing_Steps_Bin.pdf).
 
 Stand-alone R code is accessible in [PFAS_Data_Processing.R](scriptfiles/PFAS_Data_Processing.R)
 
